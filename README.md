@@ -1,9 +1,9 @@
 <p id="readme-top"></p>
 <div align="center">
-  <h3 align="center">Product Preview</h3>
+  <h3 align="center">NFT Card</h3>
 
   <p align="center">
-     Product Preview based on frontend mentor design..
+     NFT Card based on frontend mentor design..
     <br />
     <br />
     <a href="https://product-preview-tobr.vercel.app/">View a project demo</a>
@@ -12,6 +12,10 @@
 ![My Image](assets/images/preview.png)
 
 </div>
+
+## LIGTHOUSE STATISTICS
+
+![My Image](assets/images/lighthouse.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -36,7 +40,7 @@
 
 ## About The Project
 
-Product from a store.
+NFT Equilibrium Card, hover on image to see a magic overlay!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
